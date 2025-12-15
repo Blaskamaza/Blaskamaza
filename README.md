@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shokhrukh 👋
 
-<!--
-**Blaskamaza/Blaskamaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder @ YashilAi 🌱
 
-Here are some ideas to get you started:
+Building **AI-powered plant care & agri-marketplace** for Central Asia – helping smallholder farmers and gardeners diagnose plant diseases, optimize crop management, and access expert agronomy services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+
+- **[YashilAi](https://yashilai.uz)** – Dr.Plant: AI plant diagnostics using Gemini Vision API, React 19, TypeScript, Firebase
+- **FitCheck** – Virtual fitting room with AI-powered clothing try-on
+- Telegram automation bots for content moderation and media downloads
+
+### 🛠️ Tech Stack
+
+```
+Frontend:  React 19, TypeScript, Next.js, CSS
+Backend:   Firebase, Supabase, Cloud Functions
+AI/ML:     Gemini API, Claude API, Computer Vision
+Tools:     N8N, Replit, Vercel, GitHub
+```
+
+### 🎯 Focus Areas
+
+- 🌾 AgriTech & AI for agriculture
+- 🤖 Generative AI integration
+- 🚜 Building for emerging markets (Uzbekistan, Central Asia)
+- ⚡ Rapid prototyping & MVP development
+
+### 📫 Open to
+
+- 💼 **Accelerator programs** & startup incubators
+- 💰 **Pre-seed funding** conversations
+- 🤝 Technical co-founder collaborations
+- 🌍 Partnerships in AgriTech space
+
+### 📬 Let's Connect
+
+- 🌐 Website: [yashilai.uz](https://yashilai.uz)
+- 📧 Email: misargyrides@gmail.com
+- 📍 Location: Tashkent, Uzbekistan
